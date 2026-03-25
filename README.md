@@ -51,8 +51,8 @@ This project applies Natural Language Processing (NLP) techniques to analyse 10,
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/[your-username]/singapore-airlines-sentiment-analysis.git
-cd singapore-airlines-sentiment-analysis
+git clone https://github.com/Krit-Khunkitti/Singapore-Airline-Review-Analysis
+cd Singapore-Airline-Review-Analysis
 ```
 
 ### Step 2: Install dependencies
